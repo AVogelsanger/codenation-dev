@@ -1,0 +1,14 @@
+# Others
+.idea/
+.metadata/
+.gradle/
+
+# File compile
+bin/
+build/
+libs/
+lib/
+out/
+
+# Files
+stdout.txt
